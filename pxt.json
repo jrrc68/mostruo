@@ -4,7 +4,8 @@
     "dependencies": {
         "core": "*",
         "radio": "*",
-        "microphone": "*"
+        "microphone": "*",
+        "dfplayermini": "github:51bit/dfplayermini#v0.1.6"
     },
     "files": [
         "main.blocks",
